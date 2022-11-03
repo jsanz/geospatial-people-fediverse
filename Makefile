@@ -7,7 +7,7 @@ K := $(foreach exec,$(EXECUTABLES),\
 
 accounts.csv:
 	echo "listname, account" > accounts.csv
-	cat ../lists.csv | grep ${LISTNAME} >> accounts.csv
+	cat ../lists.csv | grep ${LISTNAME} | sort >> accounts.csv
 
 accounts.md: accounts.csv
 	cat accounts.csv | csvtomd > accounts.md
