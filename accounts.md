@@ -31,7 +31,7 @@ FOSS4G & Geospatial  |  gicycle@mastodon.social
 FOSS4G & Geospatial  |  htenkanen@mastodon.social
 FOSS4G & Geospatial  |  iandees@mastodon.social
 FOSS4G & Geospatial  |  IvanSanchez@mastodon.social
-FOSS4G & Geospatial  |  jimmyrocks@mastodon.social
+FOSS4G & Geospatial  |  jimmyrocks@fosstodon.org
 FOSS4G & Geospatial  |  justb4@mastodon.social
 FOSS4G & Geospatial  |  kgjenkins@mastodon.social
 FOSS4G & Geospatial  |  luis_de_sousa@mastodon.social
