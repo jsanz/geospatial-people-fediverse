@@ -5,14 +5,14 @@ EXECUTABLES = echo cat grep csvtomd
 K := $(foreach exec,$(EXECUTABLES),\
         $(if $(shell which $(exec)),some string,$(error "No $(exec) in PATH")))
 
-geospatial-people-fediverse.csv:
-	echo "listname, account" > geospatial-people-fediverse.csv
-	cat ../lists.csv | grep ${LISTNAME} >> geospatial-people-fediverse.csv
+accounts.csv:
+	echo "listname, account" > accounts.csv
+	cat ../lists.csv | grep ${LISTNAME} >> accounts.csv
 
-geospatial-people-fediverse.md: geospatial-people-fediverse.csv
-	cat geospatial-people-fediverse.csv | csvtomd > geospatial-people-fediverse.md
+accounts.md: accounts.csv
+	cat accounts.csv | csvtomd > accounts.md
 
 .PHONY: clean
 clean:
-	rm -f geospatial-people-fediverse.md geospatial-people-fediverse.csv
+	rm -f accounts.md accounts.csv
 
