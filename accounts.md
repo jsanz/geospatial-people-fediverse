@@ -23,10 +23,13 @@ FOSS4G & Geospatial  |  mapper@mamot.fr
 FOSS4G & Geospatial  |  antiapathy@mastodon.social
 FOSS4G & Geospatial  |  msevilla00@mastodon.social
 FOSS4G & Geospatial  |  adamsteer@mastodon.social
+FOSS4G & Geospatial  |  nightmayor@mastodon.social
 FOSS4G & Geospatial  |  cwillmes@mastodon.social
 FOSS4G & Geospatial  |  ulmi@mastodon.social
 FOSS4G & Geospatial  |  astroidex@mastodon.social
 FOSS4G & Geospatial  |  opengisch@mastodon.social
+FOSS4G & Geospatial  |  christoph@christophfink.com
+FOSS4G & Geospatial  |  xroijals@mastodon.bofhers.es
 FOSS4G & Geospatial  |  pwramsey@mastodon.social
 FOSS4G & Geospatial  |  justb4@mastodon.social
 FOSS4G & Geospatial  |  pokateo@mastodon.social
@@ -57,4 +60,7 @@ FOSS4G & Geospatial  |  DruidSmith@mastodon.social
 FOSS4G & Geospatial  |  sannajokela@mastodon.social
 FOSS4G & Geospatial  |  SpatialGeek@mastodon.social
 FOSS4G & Geospatial  |  codrina@mastodon.social
+FOSS4G & Geospatial  |  gicycle@mastodon.social
 FOSS4G & Geospatial  |  plablo09@mastodon.social
+FOSS4G & Geospatial  |  Dragons8mycat@mastodon.online
+FOSS4G & Geospatial  |  NRoelandt@sciences.re
