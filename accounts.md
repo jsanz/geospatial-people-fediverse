@@ -43,6 +43,7 @@ FOSS4G & Geospatial  |  iandees@mastodon.social
 FOSS4G & Geospatial  |  ianturton@fosstodon.org
 FOSS4G & Geospatial  |  InkedGeo@mastodon.social
 FOSS4G & Geospatial  |  insolit@toot.aquilenet.fr
+FOSS4G & Geospatial  |  ircwaves@fosstodon.org
 FOSS4G & Geospatial  |  IvanSanchez@mastodon.social
 FOSS4G & Geospatial  |  jessibreen@mastodon.social
 FOSS4G & Geospatial  |  JimmyRocks@fosstodon.org
