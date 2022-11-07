@@ -10,3 +10,5 @@ Other listings:
 
 * [fediverse.info](https://fediverse.info/explore/people), easy to enlist yourself by topics
 * [fedi.directory](https://fedi.directory/) maintained manually by [@fedifollos](https://mastodon.online/@fedifollows)
+* [mapstodon.space](https://mapstodon.space/explore) is a full Mastodon instance dedicated to geospatial people
+
