@@ -107,6 +107,7 @@ FOSS4G & Geospatial  |  tadusko@mstdn.social
 FOSS4G & Geospatial  |  terglobo@mastodon.social
 FOSS4G & Geospatial  |  TiranStefan@mastodon.social
 FOSS4G & Geospatial  |  Transportist@mastodon.social
+FOSS4G & Geospatial  |  tomkralidis@noc.social
 FOSS4G & Geospatial  |  ulmi@mastodon.social
 FOSS4G & Geospatial  |  vcraciunescu@mastodon.social
 FOSS4G & Geospatial  |  vpicavet@mastodon.social
