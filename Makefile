@@ -1,4 +1,4 @@
-LISTNAME="FOSS4G & Geospatial"
+LISTNAME="🌏 geo"
 
 # Ensure we have all the tools available
 EXECUTABLES = echo cat grep csvtomd
