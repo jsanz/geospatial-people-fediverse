@@ -2,7 +2,9 @@ listname  |   account
 ----------|--------------------------------------------
 🌏 geo     |  abel@vis.social
 🌏 geo     |  adamsteer@mastodon.social
-🌏 geo     |  AhhReeUhh@mastodon.social
+🌏 geo     |  ajturner@nullisland.social
+🌏 geo     |  alan_geog@mstdn.social
+🌏 geo     |  alexgleith@mapstodon.space
 🌏 geo     |  alexnetogeo@fosstodon.org
 🌏 geo     |  alexsingleton@mapstodon.space
 🌏 geo     |  AlidaCantor@mastodon.social
@@ -40,6 +42,7 @@ listname  |   account
 🌏 geo     |  davidfawcett@mastodon.social
 🌏 geo     |  defuneste@fosstodon.org
 🌏 geo     |  delawen@floss.social
+🌏 geo     |  derek@social.coop
 🌏 geo     |  dinomirMT@mastodon.social
 🌏 geo     |  dkwiens@mastodon.social
 🌏 geo     |  dmfenton@mapstodon.space
@@ -49,6 +52,7 @@ listname  |   account
 🌏 geo     |  eahanson@mastodon.social
 🌏 geo     |  edzer@mastodon.social
 🌏 geo     |  eloi@fosstodon.org
+🌏 geo     |  elpaso@mapstodon.space
 🌏 geo     |  EvenRouault@mastodon.social
 🌏 geo     |  fcorowe@fosstodon.org
 🌏 geo     |  feefifohannah@fosstodon.org
@@ -73,6 +77,7 @@ listname  |   account
 🌏 geo     |  implgeo@mapstodon.space
 🌏 geo     |  InkedGeo@mastodon.social
 🌏 geo     |  insolit@toot.aquilenet.fr
+🌏 geo     |  ircwaves@fosstodon.org
 🌏 geo     |  IvanSanchez@mastodon.social
 🌏 geo     |  jakobmiksch@mastodon.social
 🌏 geo     |  jamesfee@mastodon.social
@@ -83,13 +88,16 @@ listname  |   account
 🌏 geo     |  JimmyRocks@fosstodon.org
 🌏 geo     |  joepierce@mastodon.scot
 🌏 geo     |  josiah@mapstodon.space
+🌏 geo     |  jpoehnelt@mastodon.thbps.com
 🌏 geo     |  juanignaciosl@mastodon.social
 🌏 geo     |  justb4@mastodon.social
 🌏 geo     |  justinmponcet@sciences.re
 🌏 geo     |  JWGrade@mapstodon.space
+🌏 geo     |  kbevers@mapstodon.space
 🌏 geo     |  kgjenkins@mapstodon.space
 🌏 geo     |  kiricarini@mstdn.social
 🌏 geo     |  kris@mapstodon.space
+🌏 geo     |  lex_gom@mstdn.social
 🌏 geo     |  LocoCravey@mastodon.social
 🌏 geo     |  louisa_h@mas.to
 🌏 geo     |  luis_de_sousa@mastodon.social
@@ -108,12 +116,13 @@ listname  |   account
 🌏 geo     |  miketreglia@fosstodon.org
 🌏 geo     |  milesklazar@mastodon.social
 🌏 geo     |  mlennert@fosstodon.org
-🌏 geo     |  mmdolbow@mastodon.social
+🌏 geo     |  mmdolbow@mapstodon.space
 🌏 geo     |  msevilla00@mastodon.social
 🌏 geo     |  mwernergeo@mas.to
 🌏 geo     |  natera@fosstodon.org
 🌏 geo     |  neteler@mastodon.social
 🌏 geo     |  nickrsan@scicomm.xyz
+🌏 geo     |  niklas@niklas.social
 🌏 geo     |  NRoelandt@sciences.re
 🌏 geo     |  nukeador@mastodon.social
 🌏 geo     |  nyalld@mastodon.social
@@ -121,8 +130,8 @@ listname  |   account
 🌏 geo     |  opengisch@mastodon.social
 🌏 geo     |  openstreetmap@en.osm.town
 🌏 geo     |  openstreetmap.fr@peertube.openstreetmap.fr
+🌏 geo     |  osmcatala@mastodont.cat
 🌏 geo     |  paezha@mastodon.online
-🌏 geo     |  PetersonGIS@mastodon.social
 🌏 geo     |  plablo09@mastodon.social
 🌏 geo     |  pokateo@mapstodon.space
 🌏 geo     |  posiki@mastodon.social
@@ -160,6 +169,7 @@ listname  |   account
 🌏 geo     |  terglobo@mastodon.social
 🌏 geo     |  timlinux@fosstodon.org
 🌏 geo     |  TiranStefan@mastodon.social
+🌏 geo     |  tmcw@mastodon.social
 🌏 geo     |  tomchadwin@en.osm.town
 🌏 geo     |  tomkralidis@noc.social
 🌏 geo     |  Transportist@mastodon.social
@@ -167,8 +177,11 @@ listname  |   account
 🌏 geo     |  ulmi@mastodon.social
 🌏 geo     |  underdarkGIS@fosstodon.org
 🌏 geo     |  vcraciunescu@mastodon.social
+🌏 geo     |  VeronicaAndreo@fosstodon.org
 🌏 geo     |  vpicavet@mastodon.social
 🌏 geo     |  waeiski@vis.social
 🌏 geo     |  walkermatt@mastodon.social
+🌏 geo     |  whosonfirst@mapstodon.space
+🌏 geo     |  xemoka@mastodon.social
 🌏 geo     |  xroijals@mastodon.bofhers.es
 🌏 geo     |  zool@mastodon.social
