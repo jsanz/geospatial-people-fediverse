@@ -7,9 +7,9 @@ K := $(foreach exec,$(EXECUTABLES),\
 
 accounts.csv:
 	echo "account_name" > accounts.csv
-	cat ../lists.csv | grep ${LISTNAME} | csvcut -C 1 | sort >> accounts.csv
+	cat ./lists.csv | grep ${LISTNAME} | csvcut -C 1 | sort >> accounts.csv
 
 .PHONY: clean
 clean:
-	rm -f accounts.md accounts.csv
+	rm -f accounts.csv
 
